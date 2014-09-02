@@ -10,5 +10,5 @@ and select the **jakeres-theme.epf** file downloaded from here
 * Restart eclipse
 
 ## Screen Shots
-![screenshot](https://github.com/jakeres/jeeeyul-eclipse-themes/tree/master/screenshot-default.png)
+![screenshot](https://raw.githubusercontent.com/jakeres/jeeeyul-eclipse-themes/master/screenshot-default.png)
 
